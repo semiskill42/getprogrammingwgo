@@ -1,0 +1,2 @@
+# getprogrammingwgo
+Learning go programming
